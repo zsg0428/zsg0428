@@ -1,6 +1,6 @@
 # Hi, I'm Dempsey 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+cool+stuff+at+GetAddie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+cool+stuff+at+GetAddie)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -22,22 +22,13 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zsg0428&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zsg0428&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zsg0428&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/zsg0428/zsg0428/output/github-snake-dark.svg)
+## 3D Contribution Graph
 
 ![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/zsg0428/zsg0428/output/github-snake-dark.svg)
 
 ---
 
