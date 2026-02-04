@@ -30,8 +30,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/zsg0428/zsg0428/output/github-snake-dark.svg)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zsg0428&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
